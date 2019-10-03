@@ -814,6 +814,11 @@ const rebuses = [
     hint: 'A portable computer'
   },
   {
+    symbols: ['S', '🥧'],
+    words: ['Spy'],
+    hint: 'Secret Agent'
+  },
+  {
     symbols: ['⚠', '⬇', '🔋'],
     words: ['low', 'battery'],
     hint: 'You need to charge your device soon'
